@@ -1,0 +1,3 @@
+# prisma
+
+> only for study

@@ -1,0 +1,20 @@
+{
+  "name": "prisma-x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cod3baze/prisma-x.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cod3baze/prisma-x/issues"
+  },
+  "homepage": "https://github.com/cod3baze/prisma-x#readme"
+}
